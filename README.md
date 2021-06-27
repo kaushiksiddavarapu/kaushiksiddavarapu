@@ -1,15 +1,15 @@
 # Hola, i'm Kaushik ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-<br /><br />
-<div align="center" width="50">
+
+<h2 ><div align="center" width="50" >
 🔭 Tech enthusiast<br>
 🎓 I’m currently pursuing<b> B.Tech in CSE</b><br>
 💻 <b>College</b> : Amrita School of Engineering<br>
-⚡ <b>Languages Spoken: </b> English,Telugu<br>
-</div>
+⚡ <b>Languages Spoken:  English , Hindi ,Telugu<br>
+</div></h2>
 <br>
 <div align="center" width="50">
-
+ 
 ## ⚡ Tech Stack
 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
