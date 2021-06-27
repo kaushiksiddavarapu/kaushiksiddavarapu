@@ -12,9 +12,9 @@
  
 ## ⚡ Tech Stack
 
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -43,8 +43,7 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushiksiddavarapu&show_icons=true&count_private=true&include_all_commits=true&theme=calm&line_height=19" alt="kaushik's Github Stats" />
-  <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksiddavarapu&hide_langs_below=1&theme=calm&layout=compact" /><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksiddavarapu&hide_langs_below=1&theme=calm&layout=compact" />
 </p>
 
 </div>
