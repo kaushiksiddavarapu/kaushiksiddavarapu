@@ -7,7 +7,7 @@
 💻 <b>College</b> : Amrita School of Engineering<br>
 ⚡ <b>Languages Spoken: </b> English,Telugu<br>
 </div>
-<br />
+<br>
 <div align="center" width="50">
 
 ## ⚡ Tech Stack
@@ -25,8 +25,8 @@
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 </div>
+<br>
 
-<br /><br />
 <div align="center" width="50">
 
 ## 📫 Get in touch
@@ -36,11 +36,11 @@
 [<img align="center" alt="Kaushik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="Kaushik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
 
 ## &#x1f4c8; GitHub Stats
 [](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
-<br />
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushiksiddavarapu&show_icons=true&count_private=true&include_all_commits=true&theme=calm&line_height=19" alt="kaushik's Github Stats" />
   <br><br>
@@ -50,10 +50,10 @@
 </div>
 
 [course]:  https://github.com/
-[twitter]: https://twitter.com/RavellaAbhinav?s=08
-[instagram]: https://www.instagram.com/abhinav.ravella_/
-[linkedin]: https://www.linkedin.com/in/ravella-abhinav-9214721bb
-[discord]: https://www.linkedin.com/in/ravella-abhinav-9214721bb
+[twitter]: https://twitter.com/_Kaushik_reddy
+[instagram]: https://www.instagram.com/___kaushik__reddy___/
+[linkedin]: https://www.linkedin.com/in/kaushiksiddavarapu/
+
 [webdevplaylist]: /
 [jsplaylist]: https://code.visualstudio.com/
 [cssplaylist]: https://code.visualstudio.com/
