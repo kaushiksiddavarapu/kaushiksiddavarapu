@@ -1,4 +1,4 @@
-# Hello, i'm Kaushik ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Kaushik ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h2 ><div align="center" width="50" >
