@@ -32,9 +32,9 @@
 ## 📫 Get in touch
  
 
-[<img align="center" alt="Kaushik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" alt="Kaushik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" alt="Kaushik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="Twitter" src="https://img.shields.io/badge/_Kaushik_reddy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="Instagram" src="https://img.shields.io/badge/___kaushik__reddy___-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 <br>
 
