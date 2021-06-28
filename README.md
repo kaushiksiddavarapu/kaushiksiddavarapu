@@ -42,8 +42,8 @@
 [](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushiksiddavarapu&show_icons=true&count_private=true&include_all_commits=true&theme=calm&line_height=19" alt="kaushik's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksiddavarapu&hide_langs_below=1&theme=calm&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushiksiddavarapu&show_icons=true&count_private=true&include_all_commits=true&theme=default&line_height=19" alt="kaushik's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksiddavarapu&hide_langs_below=1&theme=default&layout=compact" />
 </p>
 
 </div>
